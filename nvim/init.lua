@@ -9,7 +9,7 @@ end })
 -- Language 
 vim.pack.add({
 	-- LSP/Treesitter
-	'neovim/nvim-lspconfig',
+	-- 'neovim/nvim-lspconfig',
 	'nvim-treesitter/nvim-treesitter',
 
 	-- GoToPreview
@@ -44,9 +44,7 @@ vim.api.nvim_create_autocmd({ "BufWritePost" }, { -- Autocommand for Linting
   end,
 })
 
-
-
---CMP
+-- Completion
 vim.pack.add({
 	"rafamadriz/friendly-snippets",
 	"https://github.com/L3MON4D3/LuaSnip",
@@ -74,6 +72,7 @@ vim.pack.add({
 	"https://github.com/gelguy/wilder.nvim",
     "https://github.com/kevinhwang91/nvim-ufo",
     "https://github.com/kevinhwang91/promise-async",
+    "https://github.com/vyfor/cord.nvim",
 	-- "https://github.com/mbbill/undotree",
 	-- "https://github.com/akinsho/toggleterm.nvim",
 	-- "https://github.com/folke/which-key.nvim"
@@ -92,12 +91,12 @@ vim.pack.add({
 	"https://github.com/romgrk/barbar.nvim"
 })
 
+
 require('options')
 require('keybinds')
 
 vim.cmd.colorscheme('koda')
-
 local capabilities = require("blink.cmp").get_lsp_capabilities()
 vim.lsp.config('*', { capabilities = capabilities })
-local language_servers = {"lua_ls", "pyright", "marksman", "html", "ts_ls", "cssls"}
+local language_servers = {"lua_ls", "pyright", "marksman", "html", "ts_ls", "cssls", "harper_ls"}
 vim.lsp.enable(language_servers)

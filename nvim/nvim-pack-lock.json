@@ -24,6 +24,10 @@
       "rev": "d939a34ceb2b57d2937890337a4aa75eb55e18a8",
       "src": "https://github.com/ms-jpq/coq_nvim"
     },
+    "cord.nvim": {
+      "rev": "283e4a5bdafd0d6187f28e5b739cccab6b4c9c64",
+      "src": "https://github.com/vyfor/cord.nvim"
+    },
     "dashboard-nvim": {
       "rev": "62a10d9d55132b338dd742afc3c8a2683f3dd426",
       "src": "https://github.com/nvimdev/dashboard-nvim"

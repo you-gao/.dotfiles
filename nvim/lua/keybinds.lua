@@ -9,8 +9,8 @@ map('n', '<C-s>', ':w<CR>', opts)
 map('n', 'q', '<Cmd>:q<CR>', opts)
 
 map('n', 'cd', ':cd %:p:h<CR>', opts)
-map('n', 'bo', ':browse oldfiles<CR>', opts)
 
+map('n', '<leader>bo', ':browse oldfiles<CR>', opts)
 map('n', '<leader>t', ':NvimTreeToggle<CR>', opts)
 map('n', '<leader>o', '<Cmd>Telescope find_files<cr>', opts)
 map('n', '<leader>a', ':AerialToggle<CR>', opts)
