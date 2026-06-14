@@ -9,12 +9,16 @@ map('n', '<C-s>', ':w<CR>', opts)
 map('n', 'q', '<Cmd>:q<CR>', opts)
 
 map('n', 'cd', ':cd %:p:h<CR>', opts)
-map('n', 'bo', ':browse oldfiles<CR>', opts)
 
+map('n', '<leader>bo', ':browse oldfiles<CR>', opts)
 map('n', '<leader>t', ':NvimTreeToggle<CR>', opts)
-map('n', '<leader>o', '<Cmd>Telescope find_files<cr>', opts)
 map('n', '<leader>a', ':AerialToggle<CR>', opts)
 map('n', '<leader>s', '<Cmd>lua require("spectre").toggle()<CR>', opts)
+
+-- TELESCOPE
+map('n', '<leader>of', '<Cmd>Telescope find_files<cr>', opts)
+map('n', '<leader>og', '<Cmd>Telescope grep_string<cr>', opts)
+map('n', '<leader>od', '<Cmd>Telescope lsp_document_symbols<cr>', opts)
 
 -- BARBAR
 map('n', '<A-,>', '<Cmd>BufferPrevious<CR>', opts)
@@ -59,7 +63,7 @@ vim.keymap.set('n', '<C-A-j>', '<Cmd>Treewalker SwapDown<cr>', { silent = true }
 vim.keymap.set('n', '<C-A-h>', '<Cmd>Treewalker SwapLeft<cr>', { silent = true })
 vim.keymap.set('n', '<C-A-l>', '<Cmd>Treewalker SwapRight<cr>', { silent = true })
 
--- Ufo
+-- UFO
 vim.keymap.set('n', 'zR', require('ufo').openAllFolds)
 vim.keymap.set('n', 'zM', require('ufo').closeAllFolds)
 
