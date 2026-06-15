@@ -14,6 +14,8 @@ map('n', '<leader>bo', ':browse oldfiles<CR>', opts)
 map('n', '<leader>t', ':NvimTreeToggle<CR>', opts)
 map('n', '<leader>a', ':AerialToggle<CR>', opts)
 map('n', '<leader>s', '<Cmd>lua require("spectre").toggle()<CR>', opts)
+map('n', '`', ':ToggleTerm<CR>', opts)
+map('t', '<Esc>', '<C-\\><C-n>', opts)
 
 -- TELESCOPE
 map('n', '<leader>of', '<Cmd>Telescope find_files<cr>', opts)

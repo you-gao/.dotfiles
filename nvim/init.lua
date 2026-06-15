@@ -9,7 +9,7 @@ end })
 -- Language 
 vim.pack.add({
 	-- LSP/Treesitter
-	'neovim/nvim-lspconfig',
+	-- 'neovim/nvim-lspconfig',
 	'nvim-treesitter/nvim-treesitter',
     'https://github.com/mfussenegger/nvim-jdtls',
 
@@ -74,7 +74,7 @@ vim.pack.add({
     "https://github.com/kevinhwang91/promise-async",
     "https://github.com/vyfor/cord.nvim",
 	-- "https://github.com/mbbill/undotree",
-	-- "https://github.com/akinsho/toggleterm.nvim",
+	"https://github.com/akinsho/toggleterm.nvim",
 	-- "https://github.com/folke/which-key.nvim"
 })
 
