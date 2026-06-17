@@ -1,17 +1,62 @@
 {
   "version": 7,
   "metadata": {
-    "instance_id": "8d39b2a1-3ce5-42fa-b5e5-98bcf7c6d5bc",
-    "saved_at": "2026-06-15T20:26:20.000966962Z",
+    "instance_id": "160bef86-7387-405d-891d-9e14516150a6",
+    "saved_at": "2026-06-17T16:09:19.759383600Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
   "data": {
-    "archived_cards": [],
+    "archived_cards": [
+      {
+        "archived_at": "2026-06-16T18:12:40.840830200Z",
+        "card": {
+          "card_number": 3,
+          "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+          "completed_at": null,
+          "created_at": "2026-06-15T05:17:50.439507500Z",
+          "description": null,
+          "due_date": null,
+          "id": "3c7d6ddf-660f-449a-8bfd-38a35807870d",
+          "points": null,
+          "position": 2,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Todo",
+          "title": "awesome-note-taking",
+          "updated_at": "2026-06-15T05:17:50.439507500Z"
+        },
+        "original_column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "original_position": 2
+      },
+      {
+        "archived_at": "2026-06-16T18:12:46.445283700Z",
+        "card": {
+          "card_number": 2,
+          "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+          "completed_at": null,
+          "created_at": "2026-06-15T04:38:29.037144800Z",
+          "description": null,
+          "due_date": null,
+          "id": "f920a1a5-999c-4508-a9f0-24b698f984d1",
+          "points": null,
+          "position": 1,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Todo",
+          "title": "random web technology",
+          "updated_at": "2026-06-15T04:38:29.037144800Z"
+        },
+        "original_column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "original_position": 1
+      }
+    ],
     "boards": [
       {
         "active_sprint_id": null,
-        "card_counter": 6,
+        "card_counter": 7,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:39.721511900Z",
@@ -29,14 +74,14 @@
           "june"
         ],
         "sprint_prefix": "home",
-        "task_list_view": "ColumnView",
+        "task_list_view": "GroupedByColumn",
         "task_sort_field": "Default",
         "task_sort_order": "Ascending",
-        "updated_at": "2026-06-14T19:57:43.782414400Z"
+        "updated_at": "2026-06-17T16:09:19.751973300Z"
       },
       {
         "active_sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "card_counter": 9,
+        "card_counter": 13,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:42.017910500Z",
@@ -54,10 +99,10 @@
           "june"
         ],
         "sprint_prefix": null,
-        "task_list_view": "ColumnView",
+        "task_list_view": "GroupedByColumn",
         "task_sort_field": "Default",
         "task_sort_order": "Ascending",
-        "updated_at": "2026-06-14T19:58:02.078683Z"
+        "updated_at": "2026-06-17T05:22:44.562340Z"
       },
       {
         "active_sprint_id": null,
@@ -82,7 +127,7 @@
       },
       {
         "active_sprint_id": null,
-        "card_counter": 6,
+        "card_counter": 8,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:48.532314300Z",
@@ -125,55 +170,56 @@
     ],
     "cards": [
       {
-        "card_number": 3,
-        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-15T03:34:41.110832500Z",
-        "created_at": "2026-06-14T22:29:47.537659300Z",
+        "card_number": 10,
+        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "completed_at": null,
+        "created_at": "2026-06-17T03:12:52.324222300Z",
         "description": null,
         "due_date": null,
-        "id": "573e9992-03d1-4d8a-a495-c184e3fa3cb1",
+        "id": "e77d66a5-4bc9-4f51-aa9b-3d48cbee0286",
         "points": null,
         "position": 0,
         "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-17T03:12:52.324266Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "ig api key",
+        "updated_at": "2026-06-17T03:12:52.324222300Z"
+      },
+      {
+        "card_number": 8,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-16T20:00:57.607067500Z",
+        "created_at": "2026-06-14T19:11:04.121670Z",
+        "description": null,
+        "due_date": null,
+        "id": "2c2118e3-7e5d-4fab-9934-2bea1618f24e",
+        "points": null,
+        "position": 0,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:11:04.121694400Z",
+            "status": "Active"
+          }
+        ],
         "status": "Done",
-        "title": "structure research",
-        "updated_at": "2026-06-15T03:34:41.110851900Z"
-      },
-      {
-        "card_number": 1,
-        "column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
-        "completed_at": null,
-        "created_at": "2026-06-14T22:18:14.490243700Z",
-        "description": null,
-        "due_date": null,
-        "id": "f94ef0ac-1848-44cb-9315-b827c4050f38",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "write down webservers in diff languages",
-        "updated_at": "2026-06-14T22:18:14.490243700Z"
-      },
-      {
-        "card_number": 5,
-        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "completed_at": null,
-        "created_at": "2026-06-15T20:25:50.029566078Z",
-        "description": null,
-        "due_date": null,
-        "id": "b725b356-eea4-4e0b-a34a-4710187b5854",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "set-up frame",
-        "updated_at": "2026-06-15T20:25:50.029566078Z"
+        "title": "create sitemap",
+        "updated_at": "2026-06-16T20:00:57.607072700Z"
       },
       {
         "card_number": 1,
@@ -193,47 +239,64 @@
         "updated_at": "2026-06-15T00:40:32.592077600Z"
       },
       {
-        "card_number": 1,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T19:53:17.326406300Z",
-        "created_at": "2026-06-14T17:20:34.597016900Z",
+        "card_number": 12,
+        "column_id": "572785f7-2193-4d59-b51c-fa7d424f4486",
+        "completed_at": null,
+        "created_at": "2026-06-17T05:36:47.298350600Z",
         "description": null,
         "due_date": null,
-        "id": "211d8a60-718b-46a1-8025-e80e79124051",
+        "id": "39f75bdb-3d4b-44b1-9c8d-1022256dc247",
         "points": null,
-        "position": 1,
+        "position": 0,
         "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
         "sprint_logs": [
           {
             "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-14T19:12:23.565469800Z",
-            "status": "Planning"
+            "started_at": "2026-06-17T05:36:47.298441600Z",
+            "status": "Active"
           }
         ],
-        "status": "Done",
-        "title": "find frame",
-        "updated_at": "2026-06-14T19:53:17.326409800Z"
+        "status": "Todo",
+        "title": "research if schedule send can be automated",
+        "updated_at": "2026-06-17T16:09:00.941350400Z"
       },
       {
-        "card_number": 5,
+        "card_number": 1,
         "column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
         "completed_at": null,
-        "created_at": "2026-06-15T20:26:19.999952714Z",
+        "created_at": "2026-06-14T22:18:14.490243700Z",
         "description": null,
         "due_date": null,
-        "id": "bc19da27-a80c-4936-881c-74f1b8cec759",
+        "id": "f94ef0ac-1848-44cb-9315-b827c4050f38",
         "points": null,
-        "position": 1,
+        "position": 0,
         "priority": "Medium",
         "sprint_id": null,
         "sprint_logs": [],
         "status": "Todo",
-        "title": "obsidian set-up",
-        "updated_at": "2026-06-15T20:26:19.999952714Z"
+        "title": "write down webservers in diff languages",
+        "updated_at": "2026-06-14T22:18:14.490243700Z"
+      },
+      {
+        "card_number": 3,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-15T03:34:41.110832500Z",
+        "created_at": "2026-06-14T22:29:47.537659300Z",
+        "description": null,
+        "due_date": null,
+        "id": "573e9992-03d1-4d8a-a495-c184e3fa3cb1",
+        "points": null,
+        "position": 0,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "structure research",
+        "updated_at": "2026-06-15T03:34:41.110851900Z"
       },
       {
         "card_number": 2,
@@ -305,21 +368,108 @@
         "updated_at": "2026-06-15T20:26:03.796483255Z"
       },
       {
-        "card_number": 2,
-        "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "card_number": 7,
+        "column_id": "572785f7-2193-4d59-b51c-fa7d424f4486",
         "completed_at": null,
-        "created_at": "2026-06-15T04:38:29.037144800Z",
+        "created_at": "2026-06-14T19:10:58.300614800Z",
         "description": null,
         "due_date": null,
-        "id": "f920a1a5-999c-4508-a9f0-24b698f984d1",
+        "id": "ac45b408-8aec-4a28-b61c-cb86eccc4615",
         "points": null,
         "position": 1,
         "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:10:58.300704200Z",
+            "status": "Active"
+          }
+        ],
         "status": "Todo",
-        "title": "random web technology",
-        "updated_at": "2026-06-15T04:38:29.037144800Z"
+        "title": "document mymaps",
+        "updated_at": "2026-06-17T16:09:04.150978400Z"
+      },
+      {
+        "card_number": 1,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-14T19:53:17.326406300Z",
+        "created_at": "2026-06-14T17:20:34.597016900Z",
+        "description": null,
+        "due_date": null,
+        "id": "211d8a60-718b-46a1-8025-e80e79124051",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:12:23.565469800Z",
+            "status": "Planning"
+          }
+        ],
+        "status": "Done",
+        "title": "find frame",
+        "updated_at": "2026-06-14T19:53:17.326409800Z"
+      },
+      {
+        "card_number": 11,
+        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "completed_at": null,
+        "created_at": "2026-06-17T03:12:59.762992400Z",
+        "description": null,
+        "due_date": null,
+        "id": "c08ab481-cb5d-4f00-8d66-c477ade2a4da",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-17T03:12:59.763069500Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "list of cameras",
+        "updated_at": "2026-06-17T03:12:59.762992400Z"
+      },
+      {
+        "card_number": 1,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-16T20:06:40.849104100Z",
+        "created_at": "2026-06-14T19:10:12.945185500Z",
+        "description": null,
+        "due_date": null,
+        "id": "458ad416-a2e3-4bc9-b1c6-f23b1b5371b9",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:10:12.945229100Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Done",
+        "title": "fix tabs behavior",
+        "updated_at": "2026-06-16T20:06:40.849110600Z"
       },
       {
         "card_number": 3,
@@ -348,21 +498,21 @@
         "updated_at": "2026-06-14T19:10:30.203120Z"
       },
       {
-        "card_number": 3,
-        "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
-        "completed_at": null,
-        "created_at": "2026-06-15T05:17:50.439507500Z",
-        "description": null,
+        "card_number": 2,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-15T20:26:10.082310773Z",
+        "created_at": "2026-06-14T22:29:35.059552200Z",
+        "description": "figuring out the best way to structure all of my information i need for when i'm doing personal research, structured informational learning, and projects\r\n\r\n",
         "due_date": null,
-        "id": "3c7d6ddf-660f-449a-8bfd-38a35807870d",
+        "id": "afb8dd9b-5983-44c8-8a98-2fea20080aef",
         "points": null,
         "position": 2,
         "priority": "Medium",
         "sprint_id": null,
         "sprint_logs": [],
-        "status": "Todo",
-        "title": "awesome-note-taking",
-        "updated_at": "2026-06-15T05:17:50.439507500Z"
+        "status": "Done",
+        "title": "restructure joplin",
+        "updated_at": "2026-06-15T20:26:10.082318908Z"
       },
       {
         "card_number": 4,
@@ -391,21 +541,30 @@
         "updated_at": "2026-06-14T20:27:52.946086800Z"
       },
       {
-        "card_number": 2,
-        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-15T20:26:10.082310773Z",
-        "created_at": "2026-06-14T22:29:35.059552200Z",
-        "description": "figuring out the best way to structure all of my information i need for when i'm doing personal research, structured informational learning, and projects\r\n\r\n",
+        "card_number": 3,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-14T22:18:23.965352Z",
+        "created_at": "2026-06-14T19:53:22.276855900Z",
+        "description": null,
         "due_date": null,
-        "id": "afb8dd9b-5983-44c8-8a98-2fea20080aef",
+        "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
         "points": null,
-        "position": 2,
+        "position": 3,
         "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
+        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:53:30.030969700Z",
+            "status": "Planning"
+          }
+        ],
         "status": "Done",
-        "title": "restructure joplin",
-        "updated_at": "2026-06-15T20:26:10.082318908Z"
+        "title": "cash check",
+        "updated_at": "2026-06-14T22:18:23.965361600Z"
       },
       {
         "card_number": 4,
@@ -434,30 +593,21 @@
         "updated_at": "2026-06-14T19:10:35.105784400Z"
       },
       {
-        "card_number": 3,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T22:18:23.965352Z",
-        "created_at": "2026-06-14T19:53:22.276855900Z",
+        "card_number": 7,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-16T03:15:14.395079500Z",
+        "created_at": "2026-06-16T02:45:16.049637400Z",
         "description": null,
         "due_date": null,
-        "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
+        "id": "48012c8b-f23c-4b7d-9ce7-7a5547b5483f",
         "points": null,
         "position": 3,
         "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:53:30.030969700Z",
-            "status": "Planning"
-          }
-        ],
+        "sprint_id": null,
+        "sprint_logs": [],
         "status": "Done",
-        "title": "cash check",
-        "updated_at": "2026-06-14T22:18:23.965361600Z"
+        "title": "install plugins",
+        "updated_at": "2026-06-16T03:15:14.395082600Z"
       },
       {
         "card_number": 5,
@@ -486,6 +636,74 @@
         "updated_at": "2026-06-14T19:10:53.487713600Z"
       },
       {
+        "card_number": 5,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-16T15:50:44.947701400Z",
+        "created_at": "2026-06-15T20:26:19.999952714Z",
+        "description": null,
+        "due_date": null,
+        "id": "bc19da27-a80c-4936-881c-74f1b8cec759",
+        "points": null,
+        "position": 4,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "obsidian set-up",
+        "updated_at": "2026-06-16T15:50:44.947708300Z"
+      },
+      {
+        "card_number": 5,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-16T01:00:38.293413800Z",
+        "created_at": "2026-06-15T20:25:50.029566078Z",
+        "description": null,
+        "due_date": null,
+        "id": "b725b356-eea4-4e0b-a34a-4710187b5854",
+        "points": null,
+        "position": 4,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "set-up frame",
+        "updated_at": "2026-06-16T01:00:38.293417400Z"
+      },
+      {
+        "card_number": 6,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-16T15:50:46.971340600Z",
+        "created_at": "2026-06-16T02:44:59.253378Z",
+        "description": null,
+        "due_date": null,
+        "id": "712b0eb5-c920-4be0-9a95-202683a549f4",
+        "points": null,
+        "position": 5,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "set-up templates",
+        "updated_at": "2026-06-16T15:50:46.971344900Z"
+      },
+      {
+        "card_number": 6,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-17T16:09:17.531525900Z",
+        "created_at": "2026-06-16T18:12:25.591818600Z",
+        "description": null,
+        "due_date": null,
+        "id": "36396719-d6e3-4ba8-84dd-eddee37a283e",
+        "points": null,
+        "position": 5,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "throw out trash",
+        "updated_at": "2026-06-17T16:09:17.531536900Z"
+      },
+      {
         "card_number": 6,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
@@ -512,39 +730,13 @@
         "updated_at": "2026-06-14T19:10:56.283575500Z"
       },
       {
-        "card_number": 7,
+        "card_number": 9,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
-        "created_at": "2026-06-14T19:10:58.300614800Z",
+        "created_at": "2026-06-16T19:48:31.218097500Z",
         "description": null,
         "due_date": null,
-        "id": "ac45b408-8aec-4a28-b61c-cb86eccc4615",
-        "points": null,
-        "position": 6,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:58.300704200Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "document mymaps",
-        "updated_at": "2026-06-14T19:10:58.300614800Z"
-      },
-      {
-        "card_number": 1,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-14T19:10:12.945185500Z",
-        "description": null,
-        "due_date": null,
-        "id": "458ad416-a2e3-4bc9-b1c6-f23b1b5371b9",
+        "id": "17ed2271-bfdc-4bcf-b7a5-185912543166",
         "points": null,
         "position": 7,
         "priority": "Medium",
@@ -555,49 +747,41 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:12.945229100Z",
+            "started_at": "2026-06-16T19:48:31.218230500Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "fix tabs behavior",
-        "updated_at": "2026-06-14T19:58:07.872154300Z"
-      },
-      {
-        "card_number": 8,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-14T19:11:04.121670Z",
-        "description": null,
-        "due_date": null,
-        "id": "2c2118e3-7e5d-4fab-9934-2bea1618f24e",
-        "points": null,
-        "position": 7,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:11:04.121694400Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "create sitemap",
-        "updated_at": "2026-06-14T19:11:04.121670Z"
+        "title": "remove yt icon",
+        "updated_at": "2026-06-16T19:48:31.218097500Z"
       }
     ],
     "columns": [
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-14T17:18:42.017914300Z",
-        "id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "name": "Todo",
+        "created_at": "2026-06-17T03:12:34.352275400Z",
+        "id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "name": "Waiting On",
         "position": 0,
-        "updated_at": "2026-06-14T19:09:28.216077800Z",
+        "updated_at": "2026-06-17T03:12:45.327238900Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:21:09.492581200Z",
+        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "name": "Hold",
+        "position": 0,
+        "updated_at": "2026-06-14T17:21:21.540138300Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532320Z",
+        "id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
+        "name": "TODO",
+        "position": 0,
+        "updated_at": "2026-06-14T17:18:48.532320Z",
         "wip_limit": null
       },
       {
@@ -620,38 +804,20 @@
       },
       {
         "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532320Z",
-        "id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
-        "name": "TODO",
-        "position": 0,
-        "updated_at": "2026-06-14T17:18:48.532320Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:21:09.492581200Z",
-        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "name": "Hold",
-        "position": 0,
-        "updated_at": "2026-06-14T17:21:21.540138300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092289Z",
-        "id": "50c342ac-0ee8-4e73-8b2b-633bddfc71e2",
-        "name": "Writing",
-        "position": 1,
-        "updated_at": "2026-06-14T22:19:54.056155100Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
         "created_at": "2026-06-14T17:18:48.532321800Z",
         "id": "97f6da96-82c7-43dd-9282-2b926fa0e36c",
         "name": "Doing",
         "position": 1,
         "updated_at": "2026-06-14T17:18:48.532321800Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:18:39.721527300Z",
+        "id": "7a311128-1339-40b2-8979-2988815dcb08",
+        "name": "Todo",
+        "position": 1,
+        "updated_at": "2026-06-14T17:21:21.540136400Z",
         "wip_limit": null
       },
       {
@@ -665,20 +831,29 @@
       },
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-14T17:18:42.017917800Z",
-        "id": "572785f7-2193-4d59-b51c-fa7d424f4486",
-        "name": "Doing",
+        "created_at": "2026-06-14T17:18:42.017914300Z",
+        "id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "name": "Todo",
         "position": 1,
-        "updated_at": "2026-06-14T17:18:42.017917800Z",
+        "updated_at": "2026-06-17T03:12:45.327235900Z",
         "wip_limit": null
       },
       {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:18:39.721527300Z",
-        "id": "7a311128-1339-40b2-8979-2988815dcb08",
-        "name": "Todo",
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092289Z",
+        "id": "50c342ac-0ee8-4e73-8b2b-633bddfc71e2",
+        "name": "Writing",
         "position": 1,
-        "updated_at": "2026-06-14T17:21:21.540136400Z",
+        "updated_at": "2026-06-14T22:19:54.056155100Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
+        "created_at": "2026-06-14T17:18:46.920580700Z",
+        "id": "03765546-c4a1-402e-a0a7-e6ad92a62cfe",
+        "name": "Complete",
+        "position": 2,
+        "updated_at": "2026-06-14T17:18:46.920580700Z",
         "wip_limit": null
       },
       {
@@ -700,12 +875,21 @@
         "wip_limit": null
       },
       {
-        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
-        "created_at": "2026-06-14T17:18:46.920580700Z",
-        "id": "03765546-c4a1-402e-a0a7-e6ad92a62cfe",
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532322300Z",
+        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
         "name": "Complete",
         "position": 2,
-        "updated_at": "2026-06-14T17:18:46.920580700Z",
+        "updated_at": "2026-06-14T17:18:48.532322300Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
+        "created_at": "2026-06-14T17:18:42.017917800Z",
+        "id": "572785f7-2193-4d59-b51c-fa7d424f4486",
+        "name": "Doing",
+        "position": 2,
+        "updated_at": "2026-06-17T03:12:45.019869300Z",
         "wip_limit": null
       },
       {
@@ -713,17 +897,8 @@
         "created_at": "2026-06-14T17:18:42.017918600Z",
         "id": "e525479f-6114-4c8e-8707-10a514f9989a",
         "name": "Complete",
-        "position": 2,
-        "updated_at": "2026-06-14T17:18:42.017918600Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532322300Z",
-        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "name": "Complete",
-        "position": 2,
-        "updated_at": "2026-06-14T17:18:48.532322300Z",
+        "position": 3,
+        "updated_at": "2026-06-17T03:12:44.740931500Z",
         "wip_limit": null
       },
       {
@@ -758,28 +933,27 @@
             "target": "b2f48e85-7c37-4417-8b96-9f786a06ee30"
           },
           {
-            "archived_at": null,
+            "archived_at": "2026-06-16T18:12:40.840835500Z",
             "created_at": "2026-06-15T05:18:50.544186300Z",
             "source": "1292c248-19fb-4a7e-9aa0-a9645d916cc2",
             "target": "3c7d6ddf-660f-449a-8bfd-38a35807870d"
+          },
+          {
+            "archived_at": null,
+            "created_at": "2026-06-16T02:45:18.352292300Z",
+            "source": "bc19da27-a80c-4936-881c-74f1b8cec759",
+            "target": "712b0eb5-c920-4be0-9a95-202683a549f4"
+          },
+          {
+            "archived_at": null,
+            "created_at": "2026-06-16T02:45:18.601246800Z",
+            "source": "bc19da27-a80c-4936-881c-74f1b8cec759",
+            "target": "48012c8b-f23c-4b7d-9ce7-7a5547b5483f"
           }
         ]
       }
     },
     "sprints": [
-      {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "card_prefix": "june2026",
-        "created_at": "2026-06-14T17:19:53.892679900Z",
-        "end_date": null,
-        "id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "name_index": 0,
-        "prefix": "home",
-        "sprint_number": 1,
-        "start_date": null,
-        "status": "Planning",
-        "updated_at": "2026-06-14T17:20:16.083903800Z"
-      },
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
         "card_prefix": null,
@@ -792,6 +966,19 @@
         "start_date": "2026-06-14T19:09:52.903902100Z",
         "status": "Active",
         "updated_at": "2026-06-14T19:11:57.475229300Z"
+      },
+      {
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "card_prefix": "june2026",
+        "created_at": "2026-06-14T17:19:53.892679900Z",
+        "end_date": null,
+        "id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+        "name_index": 0,
+        "prefix": "home",
+        "sprint_number": 1,
+        "start_date": null,
+        "status": "Planning",
+        "updated_at": "2026-06-14T17:20:16.083903800Z"
       }
     ]
   }
