@@ -1,8 +1,8 @@
 {
   "version": 7,
   "metadata": {
-    "instance_id": "fac84a87-2d39-40c9-8cf0-ec966674dcde",
-    "saved_at": "2026-06-19T14:40:25.754165700Z",
+    "instance_id": "f366f8d8-6918-4de5-95c7-26506b42787b",
+    "saved_at": "2026-06-25T14:42:27.160399Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
@@ -51,12 +51,211 @@
         },
         "original_column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
         "original_position": 1
+      },
+      {
+        "archived_at": "2026-06-21T19:31:30.243431200Z",
+        "card": {
+          "card_number": 10,
+          "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+          "completed_at": null,
+          "created_at": "2026-06-17T03:12:52.324222300Z",
+          "description": null,
+          "due_date": null,
+          "id": "e77d66a5-4bc9-4f51-aa9b-3d48cbee0286",
+          "points": null,
+          "position": 0,
+          "priority": "Medium",
+          "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-17T03:12:52.324266Z",
+              "status": "Active"
+            }
+          ],
+          "status": "Todo",
+          "title": "ig api key",
+          "updated_at": "2026-06-17T03:12:52.324222300Z"
+        },
+        "original_column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "original_position": 0
+      },
+      {
+        "archived_at": "2026-06-21T19:32:00.181040Z",
+        "card": {
+          "card_number": 11,
+          "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+          "completed_at": null,
+          "created_at": "2026-06-17T03:12:59.762992400Z",
+          "description": null,
+          "due_date": null,
+          "id": "c08ab481-cb5d-4f00-8d66-c477ade2a4da",
+          "points": null,
+          "position": 0,
+          "priority": "Medium",
+          "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-17T03:12:59.763069500Z",
+              "status": "Active"
+            }
+          ],
+          "status": "Todo",
+          "title": "list of cameras",
+          "updated_at": "2026-06-17T03:12:59.762992400Z"
+        },
+        "original_column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "original_position": 0
+      },
+      {
+        "archived_at": "2026-06-21T19:32:02.473568100Z",
+        "card": {
+          "card_number": 14,
+          "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+          "completed_at": null,
+          "created_at": "2026-06-18T15:20:51.217239100Z",
+          "description": null,
+          "due_date": null,
+          "id": "ed79527c-9de7-4592-ab5e-cacdfb59aa43",
+          "points": null,
+          "position": 0,
+          "priority": "Medium",
+          "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-18T15:20:51.218937400Z",
+              "status": "Active"
+            }
+          ],
+          "status": "Todo",
+          "title": "close out sites",
+          "updated_at": "2026-06-18T15:20:51.217239100Z"
+        },
+        "original_column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "original_position": 0
+      },
+      {
+        "archived_at": "2026-06-25T14:39:23.666260600Z",
+        "card": {
+          "card_number": 13,
+          "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+          "completed_at": null,
+          "created_at": "2026-06-18T14:14:07.176171400Z",
+          "description": null,
+          "due_date": null,
+          "id": "36996a76-c564-4e10-8a2e-03800dbc8471",
+          "points": null,
+          "position": 6,
+          "priority": "Medium",
+          "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-18T14:14:07.176231600Z",
+              "status": "Active"
+            }
+          ],
+          "status": "Todo",
+          "title": "is there a way to make the intro video high res?",
+          "updated_at": "2026-06-25T14:39:05.165253400Z"
+        },
+        "original_column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "original_position": 6
+      },
+      {
+        "archived_at": "2026-06-25T14:39:40.042042700Z",
+        "card": {
+          "card_number": 9,
+          "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+          "completed_at": null,
+          "created_at": "2026-06-16T19:48:31.218097500Z",
+          "description": null,
+          "due_date": null,
+          "id": "17ed2271-bfdc-4bcf-b7a5-185912543166",
+          "points": null,
+          "position": 4,
+          "priority": "Medium",
+          "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-16T19:48:31.218230500Z",
+              "status": "Active"
+            }
+          ],
+          "status": "Todo",
+          "title": "remove yt icon",
+          "updated_at": "2026-06-17T22:19:12.029211689Z"
+        },
+        "original_column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "original_position": 4
+      },
+      {
+        "archived_at": "2026-06-25T14:42:22.968531800Z",
+        "card": {
+          "card_number": 1,
+          "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+          "completed_at": null,
+          "created_at": "2026-06-15T00:40:32.592077600Z",
+          "description": null,
+          "due_date": null,
+          "id": "1292c248-19fb-4a7e-9aa0-a9645d916cc2",
+          "points": null,
+          "position": 0,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Todo",
+          "title": "the structure of information",
+          "updated_at": "2026-06-15T00:40:32.592077600Z"
+        },
+        "original_column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "original_position": 0
+      },
+      {
+        "archived_at": "2026-06-25T14:42:27.159860700Z",
+        "card": {
+          "card_number": 1,
+          "column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
+          "completed_at": null,
+          "created_at": "2026-06-14T22:18:14.490243700Z",
+          "description": null,
+          "due_date": null,
+          "id": "f94ef0ac-1848-44cb-9315-b827c4050f38",
+          "points": null,
+          "position": 0,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Todo",
+          "title": "write down webservers in diff languages",
+          "updated_at": "2026-06-14T22:18:14.490243700Z"
+        },
+        "original_column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
+        "original_position": 0
       }
     ],
     "boards": [
       {
         "active_sprint_id": null,
-        "card_counter": 10,
+        "card_counter": 15,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:39.721511900Z",
@@ -81,7 +280,7 @@
       },
       {
         "active_sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "card_counter": 21,
+        "card_counter": 23,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:42.017910500Z",
@@ -170,38 +369,30 @@
     ],
     "cards": [
       {
-        "card_number": 1,
-        "column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
-        "completed_at": null,
-        "created_at": "2026-06-14T22:18:14.490243700Z",
-        "description": null,
-        "due_date": null,
-        "id": "f94ef0ac-1848-44cb-9315-b827c4050f38",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "write down webservers in diff languages",
-        "updated_at": "2026-06-14T22:18:14.490243700Z"
-      },
-      {
         "card_number": 3,
-        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-15T03:34:41.110832500Z",
-        "created_at": "2026-06-14T22:29:47.537659300Z",
+        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "completed_at": null,
+        "created_at": "2026-06-14T19:10:30.203120Z",
         "description": null,
         "due_date": null,
-        "id": "573e9992-03d1-4d8a-a495-c184e3fa3cb1",
+        "id": "c235178e-eeeb-4abf-82ef-a9a8109e9918",
         "points": null,
         "position": 0,
         "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "structure research",
-        "updated_at": "2026-06-15T03:34:41.110851900Z"
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:10:30.203143700Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "build out travel page",
+        "updated_at": "2026-06-14T19:10:30.203120Z"
       },
       {
         "card_number": 8,
@@ -230,142 +421,38 @@
         "updated_at": "2026-06-16T20:00:57.607072700Z"
       },
       {
-        "card_number": 1,
-        "column_id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
-        "completed_at": null,
-        "created_at": "2026-06-15T00:40:32.592077600Z",
-        "description": null,
-        "due_date": null,
-        "id": "1292c248-19fb-4a7e-9aa0-a9645d916cc2",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "the structure of information",
-        "updated_at": "2026-06-15T00:40:32.592077600Z"
-      },
-      {
         "card_number": 10,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
         "completed_at": null,
-        "created_at": "2026-06-17T03:12:52.324222300Z",
+        "created_at": "2026-06-22T02:02:34.571277400Z",
         "description": null,
         "due_date": null,
-        "id": "e77d66a5-4bc9-4f51-aa9b-3d48cbee0286",
+        "id": "f8f26b93-ba25-4042-b8b8-16467fa0c521",
         "points": null,
         "position": 0,
         "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-17T03:12:52.324266Z",
-            "status": "Active"
-          }
-        ],
+        "sprint_id": null,
+        "sprint_logs": [],
         "status": "Todo",
-        "title": "ig api key",
-        "updated_at": "2026-06-17T03:12:52.324222300Z"
+        "title": "organize room",
+        "updated_at": "2026-06-22T02:02:34.571277400Z"
       },
       {
-        "card_number": 2,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-14T19:10:20.496696700Z",
-        "description": null,
-        "due_date": null,
-        "id": "8bfb45e1-35c5-42bf-9700-62dc4d9e419e",
-        "points": null,
-        "position": 1,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:20.496722600Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "build out my maps",
-        "updated_at": "2026-06-14T19:10:20.496696700Z"
-      },
-      {
-        "card_number": 4,
+        "card_number": 3,
         "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-15T20:26:03.796426753Z",
-        "created_at": "2026-06-15T03:34:51.481172200Z",
+        "completed_at": "2026-06-15T03:34:41.110832500Z",
+        "created_at": "2026-06-14T22:29:47.537659300Z",
         "description": null,
         "due_date": null,
-        "id": "b2f48e85-7c37-4417-8b96-9f786a06ee30",
+        "id": "573e9992-03d1-4d8a-a495-c184e3fa3cb1",
         "points": null,
-        "position": 1,
+        "position": 0,
         "priority": "Medium",
         "sprint_id": null,
         "sprint_logs": [],
         "status": "Done",
-        "title": "implementation research",
-        "updated_at": "2026-06-15T20:26:03.796483255Z"
-      },
-      {
-        "card_number": 11,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-17T03:12:59.762992400Z",
-        "description": null,
-        "due_date": null,
-        "id": "c08ab481-cb5d-4f00-8d66-c477ade2a4da",
-        "points": null,
-        "position": 1,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-17T03:12:59.763069500Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "list of cameras",
-        "updated_at": "2026-06-17T03:12:59.762992400Z"
-      },
-      {
-        "card_number": 2,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T19:53:02.198286Z",
-        "created_at": "2026-06-14T17:20:50.159237700Z",
-        "description": null,
-        "due_date": null,
-        "id": "d01235d2-c1a6-4716-8211-89702b8c232b",
-        "points": null,
-        "position": 1,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:12:20.819369500Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "clean top-shelf",
-        "updated_at": "2026-06-14T19:53:02.198290600Z"
+        "title": "structure research",
+        "updated_at": "2026-06-15T03:34:41.110851900Z"
       },
       {
         "card_number": 1,
@@ -394,6 +481,92 @@
         "updated_at": "2026-06-16T20:06:40.849110600Z"
       },
       {
+        "card_number": 2,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-14T19:53:02.198286Z",
+        "created_at": "2026-06-14T17:20:50.159237700Z",
+        "description": null,
+        "due_date": null,
+        "id": "d01235d2-c1a6-4716-8211-89702b8c232b",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:12:20.819369500Z",
+            "status": "Planning"
+          }
+        ],
+        "status": "Done",
+        "title": "clean top-shelf",
+        "updated_at": "2026-06-14T19:53:02.198290600Z"
+      },
+      {
+        "card_number": 4,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-15T20:26:03.796426753Z",
+        "created_at": "2026-06-15T03:34:51.481172200Z",
+        "description": null,
+        "due_date": null,
+        "id": "b2f48e85-7c37-4417-8b96-9f786a06ee30",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "implementation research",
+        "updated_at": "2026-06-15T20:26:03.796483255Z"
+      },
+      {
+        "card_number": 11,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "completed_at": null,
+        "created_at": "2026-06-22T02:02:39.604472100Z",
+        "description": null,
+        "due_date": null,
+        "id": "d59575a0-dfb2-4f6a-bab2-ad36dc0b7f45",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "move laundry into closet",
+        "updated_at": "2026-06-22T02:02:39.604472100Z"
+      },
+      {
+        "card_number": 4,
+        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "completed_at": null,
+        "created_at": "2026-06-14T19:10:35.105784400Z",
+        "description": null,
+        "due_date": null,
+        "id": "b93afd2d-303a-4915-9695-d5a85d6aa8e6",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:10:35.105806700Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "build out iteneraries",
+        "updated_at": "2026-06-14T19:10:35.105784400Z"
+      },
+      {
         "card_number": 1,
         "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
         "completed_at": "2026-06-14T19:53:17.326406300Z",
@@ -420,6 +593,32 @@
         "updated_at": "2026-06-14T19:53:17.326409800Z"
       },
       {
+        "card_number": 5,
+        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "completed_at": null,
+        "created_at": "2026-06-14T19:10:53.487713600Z",
+        "description": null,
+        "due_date": null,
+        "id": "c7446e14-c6e9-4aa0-8f34-29d6db23a7e7",
+        "points": null,
+        "position": 2,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-14T19:10:53.487734Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "document wordpress architecture",
+        "updated_at": "2026-06-14T19:10:53.487713600Z"
+      },
+      {
         "card_number": 7,
         "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
         "completed_at": "2026-06-17T22:19:08.743768659Z",
@@ -444,32 +643,6 @@
         "status": "Done",
         "title": "document mymaps",
         "updated_at": "2026-06-17T22:19:08.743777434Z"
-      },
-      {
-        "card_number": 14,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-18T15:20:51.217239100Z",
-        "description": null,
-        "due_date": null,
-        "id": "ed79527c-9de7-4592-ab5e-cacdfb59aa43",
-        "points": null,
-        "position": 2,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-18T15:20:51.218937400Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "close out sites",
-        "updated_at": "2026-06-18T15:20:51.217239100Z"
       },
       {
         "card_number": 4,
@@ -515,125 +688,21 @@
         "updated_at": "2026-06-15T20:26:10.082318908Z"
       },
       {
-        "card_number": 3,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "card_number": 14,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
         "completed_at": null,
-        "created_at": "2026-06-14T19:10:30.203120Z",
+        "created_at": "2026-06-25T14:42:14.264907900Z",
         "description": null,
         "due_date": null,
-        "id": "c235178e-eeeb-4abf-82ef-a9a8109e9918",
+        "id": "4da7c51d-fc48-4f93-adb7-6cf742fabfd5",
         "points": null,
         "position": 2,
         "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:30.203143700Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "build out travel page",
-        "updated_at": "2026-06-14T19:10:30.203120Z"
-      },
-      {
-        "card_number": 15,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-18T15:29:36.705366300Z",
-        "description": null,
-        "due_date": null,
-        "id": "95f0ab94-2540-4195-8b79-56937d7ddac8",
-        "points": null,
-        "position": 3,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-18T15:29:36.705482100Z",
-            "status": "Active"
-          }
-        ],
-        "status": "Todo",
-        "title": "look up forms",
-        "updated_at": "2026-06-18T15:29:36.705366300Z"
-      },
-      {
-        "card_number": 7,
-        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-16T03:15:14.395079500Z",
-        "created_at": "2026-06-16T02:45:16.049637400Z",
-        "description": null,
-        "due_date": null,
-        "id": "48012c8b-f23c-4b7d-9ce7-7a5547b5483f",
-        "points": null,
-        "position": 3,
-        "priority": "Medium",
         "sprint_id": null,
         "sprint_logs": [],
-        "status": "Done",
-        "title": "install plugins",
-        "updated_at": "2026-06-16T03:15:14.395082600Z"
-      },
-      {
-        "card_number": 3,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T22:18:23.965352Z",
-        "created_at": "2026-06-14T19:53:22.276855900Z",
-        "description": null,
-        "due_date": null,
-        "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
-        "points": null,
-        "position": 3,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:53:30.030969700Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "cash check",
-        "updated_at": "2026-06-14T22:18:23.965361600Z"
-      },
-      {
-        "card_number": 4,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-14T19:10:35.105784400Z",
-        "description": null,
-        "due_date": null,
-        "id": "b93afd2d-303a-4915-9695-d5a85d6aa8e6",
-        "points": null,
-        "position": 3,
-        "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:35.105806700Z",
-            "status": "Active"
-          }
-        ],
         "status": "Todo",
-        "title": "build out iteneraries",
-        "updated_at": "2026-06-14T19:10:35.105784400Z"
+        "title": "finish off boarding",
+        "updated_at": "2026-06-25T14:42:14.264907900Z"
       },
       {
         "card_number": 12,
@@ -662,15 +731,15 @@
         "updated_at": "2026-06-17T22:19:12.699456163Z"
       },
       {
-        "card_number": 5,
+        "card_number": 6,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
-        "created_at": "2026-06-14T19:10:53.487713600Z",
+        "created_at": "2026-06-14T19:10:56.283575500Z",
         "description": null,
         "due_date": null,
-        "id": "c7446e14-c6e9-4aa0-8f34-29d6db23a7e7",
+        "id": "020928e1-0ec9-4b20-b2c3-98d901d8587d",
         "points": null,
-        "position": 4,
+        "position": 3,
         "priority": "Medium",
         "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
         "sprint_logs": [
@@ -679,39 +748,56 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:53.487734Z",
+            "started_at": "2026-06-14T19:10:56.283596900Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "document wordpress architecture",
-        "updated_at": "2026-06-14T19:10:53.487713600Z"
+        "title": "document events platform",
+        "updated_at": "2026-06-14T19:10:56.283575500Z"
       },
       {
-        "card_number": 16,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-18T15:30:48.655548900Z",
+        "card_number": 3,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-14T22:18:23.965352Z",
+        "created_at": "2026-06-14T19:53:22.276855900Z",
         "description": null,
         "due_date": null,
-        "id": "87c7b02e-60f1-4c31-8b7e-c8a4297277b9",
+        "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
         "points": null,
-        "position": 4,
+        "position": 3,
         "priority": "Medium",
-        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
         "sprint_logs": [
           {
             "ended_at": null,
-            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T15:30:48.655615600Z",
-            "status": "Active"
+            "started_at": "2026-06-14T19:53:30.030969700Z",
+            "status": "Planning"
           }
         ],
-        "status": "Todo",
-        "title": "look into adding a pop-up",
-        "updated_at": "2026-06-18T15:30:48.655548900Z"
+        "status": "Done",
+        "title": "cash check",
+        "updated_at": "2026-06-14T22:18:23.965361600Z"
+      },
+      {
+        "card_number": 7,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-16T03:15:14.395079500Z",
+        "created_at": "2026-06-16T02:45:16.049637400Z",
+        "description": null,
+        "due_date": null,
+        "id": "48012c8b-f23c-4b7d-9ce7-7a5547b5483f",
+        "points": null,
+        "position": 3,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "install plugins",
+        "updated_at": "2026-06-16T03:15:14.395082600Z"
       },
       {
         "card_number": 5,
@@ -748,15 +834,15 @@
         "updated_at": "2026-06-16T15:50:44.947708300Z"
       },
       {
-        "card_number": 6,
+        "card_number": 20,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
-        "created_at": "2026-06-14T19:10:56.283575500Z",
+        "created_at": "2026-06-18T22:15:03.695040500Z",
         "description": null,
         "due_date": null,
-        "id": "020928e1-0ec9-4b20-b2c3-98d901d8587d",
+        "id": "71af7a10-f9aa-4232-bbe0-27d377ae0c3a",
         "points": null,
-        "position": 5,
+        "position": 4,
         "priority": "Medium",
         "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
         "sprint_logs": [
@@ -765,24 +851,24 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-14T19:10:56.283596900Z",
+            "started_at": "2026-06-18T22:15:03.695143900Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "document events platform",
-        "updated_at": "2026-06-14T19:10:56.283575500Z"
+        "title": "create itenerary tempalte",
+        "updated_at": "2026-06-18T22:15:05.013818200Z"
       },
       {
-        "card_number": 17,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-18T15:30:54.806265900Z",
+        "card_number": 21,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-22T20:28:04.851801300Z",
+        "created_at": "2026-06-21T19:32:17.152785700Z",
         "description": null,
         "due_date": null,
-        "id": "73039c07-d3d7-43df-be3c-6c0716c5f8a2",
+        "id": "9986570a-7b79-4111-99d1-65d32e0877c4",
         "points": null,
-        "position": 5,
+        "position": 4,
         "priority": "Medium",
         "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
         "sprint_logs": [
@@ -791,30 +877,39 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T15:30:54.806323400Z",
+            "started_at": "2026-06-21T19:32:17.152825Z",
             "status": "Active"
           }
         ],
-        "status": "Todo",
-        "title": "look into bookings",
-        "updated_at": "2026-06-18T15:30:54.806265900Z"
-      },
-      {
-        "card_number": 6,
-        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "completed_at": "2026-06-16T15:50:46.971340600Z",
-        "created_at": "2026-06-16T02:44:59.253378Z",
-        "description": null,
-        "due_date": null,
-        "id": "712b0eb5-c920-4be0-9a95-202683a549f4",
-        "points": null,
-        "position": 5,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
         "status": "Done",
-        "title": "set-up templates",
-        "updated_at": "2026-06-16T15:50:46.971344900Z"
+        "title": "ig account access",
+        "updated_at": "2026-06-22T20:28:04.851805800Z"
+      },
+      {
+        "card_number": 19,
+        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "completed_at": null,
+        "created_at": "2026-06-18T22:14:59.334294Z",
+        "description": null,
+        "due_date": null,
+        "id": "6b76c1fc-e49f-4e22-8de4-b528349a4d52",
+        "points": null,
+        "position": 5,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-18T22:14:59.337314800Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Todo",
+        "title": "create activities temaplte",
+        "updated_at": "2026-06-18T22:15:07.142535500Z"
       },
       {
         "card_number": 6,
@@ -834,13 +929,13 @@
         "updated_at": "2026-06-17T16:09:17.531536900Z"
       },
       {
-        "card_number": 9,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-16T19:48:31.218097500Z",
+        "card_number": 2,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-25T13:49:51.563604200Z",
+        "created_at": "2026-06-14T19:10:20.496696700Z",
         "description": null,
         "due_date": null,
-        "id": "17ed2271-bfdc-4bcf-b7a5-185912543166",
+        "id": "8bfb45e1-35c5-42bf-9700-62dc4d9e419e",
         "points": null,
         "position": 5,
         "priority": "Medium",
@@ -851,22 +946,39 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-16T19:48:31.218230500Z",
+            "started_at": "2026-06-14T19:10:20.496722600Z",
             "status": "Active"
           }
         ],
-        "status": "Todo",
-        "title": "remove yt icon",
-        "updated_at": "2026-06-17T22:19:12.029211689Z"
+        "status": "Done",
+        "title": "build out my maps",
+        "updated_at": "2026-06-25T13:49:51.563609Z"
       },
       {
-        "card_number": 18,
-        "column_id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "completed_at": null,
-        "created_at": "2026-06-18T15:34:31.317428400Z",
+        "card_number": 6,
+        "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "completed_at": "2026-06-16T15:50:46.971340600Z",
+        "created_at": "2026-06-16T02:44:59.253378Z",
         "description": null,
         "due_date": null,
-        "id": "a319b124-4284-4ec2-a053-6ca9f8e5e4cc",
+        "id": "712b0eb5-c920-4be0-9a95-202683a549f4",
+        "points": null,
+        "position": 5,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "set-up templates",
+        "updated_at": "2026-06-16T15:50:46.971344900Z"
+      },
+      {
+        "card_number": 22,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-25T13:49:55.055443100Z",
+        "created_at": "2026-06-22T20:28:43.818166400Z",
+        "description": null,
+        "due_date": null,
+        "id": "7b6b86a3-bf32-4d36-8b1e-6c31292459eb",
         "points": null,
         "position": 6,
         "priority": "Medium",
@@ -877,13 +989,13 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T15:34:31.317496700Z",
+            "started_at": "2026-06-22T20:28:43.818236700Z",
             "status": "Active"
           }
         ],
-        "status": "Todo",
-        "title": "looking into subheading dropdowns",
-        "updated_at": "2026-06-18T15:34:31.317428400Z"
+        "status": "Done",
+        "title": "build out ig page",
+        "updated_at": "2026-06-25T13:49:55.055447400Z"
       },
       {
         "card_number": 7,
@@ -903,13 +1015,13 @@
         "updated_at": "2026-06-18T17:27:59.482676400Z"
       },
       {
-        "card_number": 13,
+        "card_number": 15,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
-        "created_at": "2026-06-18T14:14:07.176171400Z",
+        "created_at": "2026-06-18T15:29:36.705366300Z",
         "description": null,
         "due_date": null,
-        "id": "36996a76-c564-4e10-8a2e-03800dbc8471",
+        "id": "95f0ab94-2540-4195-8b79-56937d7ddac8",
         "points": null,
         "position": 6,
         "priority": "Medium",
@@ -920,13 +1032,13 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T14:14:07.176231600Z",
+            "started_at": "2026-06-18T15:29:36.705482100Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "is there a way to make the intro video high res?",
-        "updated_at": "2026-06-18T14:14:09.253237500Z"
+        "title": "look up forms",
+        "updated_at": "2026-06-21T19:32:04.428826900Z"
       },
       {
         "card_number": 8,
@@ -946,13 +1058,13 @@
         "updated_at": "2026-06-19T14:40:23.168679500Z"
       },
       {
-        "card_number": 20,
-        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "completed_at": null,
-        "created_at": "2026-06-18T22:15:03.695040500Z",
+        "card_number": 18,
+        "column_id": "e525479f-6114-4c8e-8707-10a514f9989a",
+        "completed_at": "2026-06-25T14:38:51.274708Z",
+        "created_at": "2026-06-18T15:34:31.317428400Z",
         "description": null,
         "due_date": null,
-        "id": "71af7a10-f9aa-4232-bbe0-27d377ae0c3a",
+        "id": "a319b124-4284-4ec2-a053-6ca9f8e5e4cc",
         "points": null,
         "position": 7,
         "priority": "Medium",
@@ -963,22 +1075,48 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T22:15:03.695143900Z",
+            "started_at": "2026-06-18T15:34:31.317496700Z",
+            "status": "Active"
+          }
+        ],
+        "status": "Done",
+        "title": "looking into subheading dropdowns",
+        "updated_at": "2026-06-25T14:38:51.274723600Z"
+      },
+      {
+        "card_number": 17,
+        "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "completed_at": null,
+        "created_at": "2026-06-18T15:30:54.806265900Z",
+        "description": null,
+        "due_date": null,
+        "id": "73039c07-d3d7-43df-be3c-6c0716c5f8a2",
+        "points": null,
+        "position": 7,
+        "priority": "Medium",
+        "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+        "sprint_logs": [
+          {
+            "ended_at": null,
+            "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
+            "sprint_name": "june",
+            "sprint_number": 1,
+            "started_at": "2026-06-18T15:30:54.806323400Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "create itenerary tempalte",
-        "updated_at": "2026-06-18T22:15:05.013818200Z"
+        "title": "look into bookings",
+        "updated_at": "2026-06-21T19:32:08.058187900Z"
       },
       {
-        "card_number": 19,
+        "card_number": 16,
         "column_id": "0252c512-d482-4431-9ba8-11bee530fdf1",
         "completed_at": null,
-        "created_at": "2026-06-18T22:14:59.334294Z",
+        "created_at": "2026-06-18T15:30:48.655548900Z",
         "description": null,
         "due_date": null,
-        "id": "6b76c1fc-e49f-4e22-8de4-b528349a4d52",
+        "id": "87c7b02e-60f1-4c31-8b7e-c8a4297277b9",
         "points": null,
         "position": 8,
         "priority": "Medium",
@@ -989,13 +1127,13 @@
             "sprint_id": "6ca12f51-0526-4ea1-bdd8-f0bb281964ff",
             "sprint_name": "june",
             "sprint_number": 1,
-            "started_at": "2026-06-18T22:14:59.337314800Z",
+            "started_at": "2026-06-18T15:30:48.655615600Z",
             "status": "Active"
           }
         ],
         "status": "Todo",
-        "title": "create activities temaplte",
-        "updated_at": "2026-06-18T22:15:07.142535500Z"
+        "title": "look into adding a pop-up",
+        "updated_at": "2026-06-21T19:32:09.205181200Z"
       },
       {
         "card_number": 9,
@@ -1013,9 +1151,52 @@
         "status": "Done",
         "title": "drop off car 9:30 am friday",
         "updated_at": "2026-06-19T14:40:25.753143600Z"
+      },
+      {
+        "card_number": 12,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-25T13:49:39.302659Z",
+        "created_at": "2026-06-22T20:27:53.153980600Z",
+        "description": null,
+        "due_date": null,
+        "id": "8d020dfd-bb92-4050-884e-724e73d576d6",
+        "points": null,
+        "position": 9,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "email about health permit",
+        "updated_at": "2026-06-25T13:49:39.302661200Z"
+      },
+      {
+        "card_number": 13,
+        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "completed_at": "2026-06-25T13:49:42.934082500Z",
+        "created_at": "2026-06-23T20:33:52.489995800Z",
+        "description": null,
+        "due_date": null,
+        "id": "9cf51379-7117-4134-82dd-b43157d4ff11",
+        "points": null,
+        "position": 10,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Done",
+        "title": "pay bank",
+        "updated_at": "2026-06-25T13:49:42.934084300Z"
       }
     ],
     "columns": [
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532320Z",
+        "id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
+        "name": "TODO",
+        "position": 0,
+        "updated_at": "2026-06-14T17:18:48.532320Z",
+        "wip_limit": null
+      },
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
         "created_at": "2026-06-17T03:12:34.352275400Z",
@@ -1023,6 +1204,15 @@
         "name": "Waiting On",
         "position": 0,
         "updated_at": "2026-06-17T03:12:45.327238900Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:21:09.492581200Z",
+        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "name": "Hold",
+        "position": 0,
+        "updated_at": "2026-06-14T17:21:21.540138300Z",
         "wip_limit": null
       },
       {
@@ -1044,30 +1234,12 @@
         "wip_limit": null
       },
       {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532320Z",
-        "id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
-        "name": "TODO",
-        "position": 0,
-        "updated_at": "2026-06-14T17:18:48.532320Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:21:09.492581200Z",
-        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "name": "Hold",
-        "position": 0,
-        "updated_at": "2026-06-14T17:21:21.540138300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-14T17:18:42.017914300Z",
-        "id": "0252c512-d482-4431-9ba8-11bee530fdf1",
-        "name": "Todo",
+        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
+        "created_at": "2026-06-14T17:18:46.920578300Z",
+        "id": "8c64a859-9800-433b-b303-f9946e68ecfa",
+        "name": "Doing",
         "position": 1,
-        "updated_at": "2026-06-17T03:12:45.327235900Z",
+        "updated_at": "2026-06-14T17:18:46.920578300Z",
         "wip_limit": null
       },
       {
@@ -1077,15 +1249,6 @@
         "name": "Todo",
         "position": 1,
         "updated_at": "2026-06-14T17:21:21.540136400Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
-        "created_at": "2026-06-14T17:18:46.920578300Z",
-        "id": "8c64a859-9800-433b-b303-f9946e68ecfa",
-        "name": "Doing",
-        "position": 1,
-        "updated_at": "2026-06-14T17:18:46.920578300Z",
         "wip_limit": null
       },
       {
@@ -1107,12 +1270,12 @@
         "wip_limit": null
       },
       {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092294100Z",
-        "id": "6e54ed8f-c704-4088-9b72-1b0f50b58022",
-        "name": "Published",
-        "position": 2,
-        "updated_at": "2026-06-14T22:19:58.477166500Z",
+        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
+        "created_at": "2026-06-14T17:18:42.017914300Z",
+        "id": "0252c512-d482-4431-9ba8-11bee530fdf1",
+        "name": "Todo",
+        "position": 1,
+        "updated_at": "2026-06-17T03:12:45.327235900Z",
         "wip_limit": null
       },
       {
@@ -1122,15 +1285,6 @@
         "name": "Doing",
         "position": 2,
         "updated_at": "2026-06-17T03:12:45.019869300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532322300Z",
-        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "name": "Complete",
-        "position": 2,
-        "updated_at": "2026-06-14T17:18:48.532322300Z",
         "wip_limit": null
       },
       {
@@ -1149,6 +1303,24 @@
         "name": "Complete",
         "position": 2,
         "updated_at": "2026-06-14T17:18:46.920580700Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092294100Z",
+        "id": "6e54ed8f-c704-4088-9b72-1b0f50b58022",
+        "name": "Published",
+        "position": 2,
+        "updated_at": "2026-06-14T22:19:58.477166500Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532322300Z",
+        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "name": "Complete",
+        "position": 2,
+        "updated_at": "2026-06-14T17:18:48.532322300Z",
         "wip_limit": null
       },
       {
