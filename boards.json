@@ -2,7 +2,7 @@
   "version": 7,
   "metadata": {
     "instance_id": "4b526bef-78cc-4d7e-af13-17d604766289",
-    "saved_at": "2026-07-02T16:27:50.567576100Z",
+    "saved_at": "2026-07-02T20:09:52.449810800Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
@@ -485,7 +485,7 @@
     "boards": [
       {
         "active_sprint_id": null,
-        "card_counter": 18,
+        "card_counter": 19,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:39.721511900Z",
@@ -642,6 +642,23 @@
         "updated_at": "2026-07-02T16:27:39.931863600Z"
       },
       {
+        "card_number": 18,
+        "column_id": "7a311128-1339-40b2-8979-2988815dcb08",
+        "completed_at": null,
+        "created_at": "2026-07-02T20:09:49.667693700Z",
+        "description": null,
+        "due_date": null,
+        "id": "1cbac043-bf85-4b63-bc5e-8568d569a1ba",
+        "points": null,
+        "position": 0,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "update script",
+        "updated_at": "2026-07-02T20:09:51.120036200Z"
+      },
+      {
         "card_number": 16,
         "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
         "completed_at": null,
@@ -763,7 +780,7 @@
       },
       {
         "card_number": 17,
-        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "column_id": "7a311128-1339-40b2-8979-2988815dcb08",
         "completed_at": null,
         "created_at": "2026-07-02T16:27:50.566747600Z",
         "description": null,
@@ -776,7 +793,7 @@
         "sprint_logs": [],
         "status": "Todo",
         "title": "fix task categories",
-        "updated_at": "2026-07-02T16:27:50.566747600Z"
+        "updated_at": "2026-07-02T20:09:52.449368400Z"
       },
       {
         "card_number": 1,
