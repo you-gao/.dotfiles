@@ -2,7 +2,7 @@
   "version": 7,
   "metadata": {
     "instance_id": "4b526bef-78cc-4d7e-af13-17d604766289",
-    "saved_at": "2026-07-02T16:19:02.859290400Z",
+    "saved_at": "2026-07-02T16:27:50.567576100Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
@@ -485,7 +485,7 @@
     "boards": [
       {
         "active_sprint_id": null,
-        "card_counter": 17,
+        "card_counter": 18,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:39.721511900Z",
@@ -556,7 +556,7 @@
       },
       {
         "active_sprint_id": null,
-        "card_counter": 8,
+        "card_counter": 9,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:48.532314300Z",
@@ -623,6 +623,23 @@
         "status": "Todo",
         "title": "build out travel page",
         "updated_at": "2026-07-01T00:02:12.735443300Z"
+      },
+      {
+        "card_number": 8,
+        "column_id": "97f6da96-82c7-43dd-9282-2b926fa0e36c",
+        "completed_at": null,
+        "created_at": "2026-07-02T16:27:34.241524600Z",
+        "description": null,
+        "due_date": null,
+        "id": "a9340135-2f1c-4414-bad4-426e6abb7698",
+        "points": null,
+        "position": 0,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "typescript",
+        "updated_at": "2026-07-02T16:27:39.931863600Z"
       },
       {
         "card_number": 16,
@@ -743,6 +760,23 @@
         "status": "Done",
         "title": "implementation research",
         "updated_at": "2026-06-15T20:26:03.796483255Z"
+      },
+      {
+        "card_number": 17,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "completed_at": null,
+        "created_at": "2026-07-02T16:27:50.566747600Z",
+        "description": null,
+        "due_date": null,
+        "id": "67d0f2e2-23ff-4796-99c0-18c61c1abab0",
+        "points": null,
+        "position": 1,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "fix task categories",
+        "updated_at": "2026-07-02T16:27:50.566747600Z"
       },
       {
         "card_number": 1,
