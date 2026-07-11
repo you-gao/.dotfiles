@@ -1,8 +1,8 @@
 {
   "version": 7,
   "metadata": {
-    "instance_id": "449772b3-d9ac-49a8-8c42-e7f250f66597",
-    "saved_at": "2026-07-10T13:34:32.242916900Z",
+    "instance_id": "34e96673-850a-4699-a258-a395e764bedc",
+    "saved_at": "2026-07-11T18:35:28.674322600Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
@@ -1015,6 +1015,394 @@
         },
         "original_column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
         "original_position": 5
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673836600Z",
+        "card": {
+          "card_number": 9,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-19T14:40:25.753138600Z",
+          "created_at": "2026-06-18T17:28:10.601701300Z",
+          "description": null,
+          "due_date": null,
+          "id": "fe34a36c-ac2e-4c24-90b3-e0469cd7e75e",
+          "points": null,
+          "position": 8,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "drop off car 9:30 am friday",
+          "updated_at": "2026-06-19T14:40:25.753143600Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 8
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673838900Z",
+        "card": {
+          "card_number": 7,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-18T17:27:59.482670100Z",
+          "created_at": "2026-06-18T15:54:18.905453100Z",
+          "description": null,
+          "due_date": null,
+          "id": "318d88a7-694a-457e-8d7b-d58fcac62ea3",
+          "points": null,
+          "position": 6,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "figure out progressive",
+          "updated_at": "2026-06-18T17:27:59.482676400Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 6
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673839600Z",
+        "card": {
+          "card_number": 2,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-14T19:53:02.198286Z",
+          "created_at": "2026-06-14T17:20:50.159237700Z",
+          "description": null,
+          "due_date": null,
+          "id": "d01235d2-c1a6-4716-8211-89702b8c232b",
+          "points": null,
+          "position": 1,
+          "priority": "Medium",
+          "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-14T19:12:20.819369500Z",
+              "status": "Planning"
+            }
+          ],
+          "status": "Done",
+          "title": "clean top-shelf",
+          "updated_at": "2026-06-14T19:53:02.198290600Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 1
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673840Z",
+        "card": {
+          "card_number": 6,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-17T16:09:17.531525900Z",
+          "created_at": "2026-06-16T18:12:25.591818600Z",
+          "description": null,
+          "due_date": null,
+          "id": "36396719-d6e3-4ba8-84dd-eddee37a283e",
+          "points": null,
+          "position": 5,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "throw out trash",
+          "updated_at": "2026-06-17T16:09:17.531536900Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 5
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673840500Z",
+        "card": {
+          "card_number": 3,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-14T22:18:23.965352Z",
+          "created_at": "2026-06-14T19:53:22.276855900Z",
+          "description": null,
+          "due_date": null,
+          "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
+          "points": null,
+          "position": 3,
+          "priority": "Medium",
+          "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-14T19:53:30.030969700Z",
+              "status": "Planning"
+            }
+          ],
+          "status": "Done",
+          "title": "cash check",
+          "updated_at": "2026-06-14T22:18:23.965361600Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 3
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673841Z",
+        "card": {
+          "card_number": 16,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-07-10T12:22:56.099882600Z",
+          "created_at": "2026-07-02T01:28:05.205975600Z",
+          "description": "waiting to find out when remote days are so i can go drop off and wait\r\n\r\n",
+          "due_date": null,
+          "id": "966dd552-057d-483b-a0b4-d02ae0d8c260",
+          "points": null,
+          "position": 13,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "service the car",
+          "updated_at": "2026-07-10T12:22:56.099885600Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 13
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673841500Z",
+        "card": {
+          "card_number": 4,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-14T20:27:52.946082800Z",
+          "created_at": "2026-06-14T20:22:25.399993Z",
+          "description": null,
+          "due_date": null,
+          "id": "bd3d301c-6c11-45bf-b98b-8c2a24b46eb5",
+          "points": null,
+          "position": 2,
+          "priority": "Medium",
+          "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-14T20:22:28.278870500Z",
+              "status": "Planning"
+            }
+          ],
+          "status": "Done",
+          "title": "takeout trash",
+          "updated_at": "2026-06-14T20:27:52.946086800Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 2
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673841900Z",
+        "card": {
+          "card_number": 11,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-07-01T00:01:44.929604900Z",
+          "created_at": "2026-06-22T02:02:39.604472100Z",
+          "description": null,
+          "due_date": null,
+          "id": "d59575a0-dfb2-4f6a-bab2-ad36dc0b7f45",
+          "points": null,
+          "position": 12,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "move laundry into closet",
+          "updated_at": "2026-07-01T00:01:44.929607Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 12
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673842300Z",
+        "card": {
+          "card_number": 14,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-07-10T12:22:58.043638300Z",
+          "created_at": "2026-06-25T14:42:14.264907900Z",
+          "description": null,
+          "due_date": null,
+          "id": "4da7c51d-fc48-4f93-adb7-6cf742fabfd5",
+          "points": null,
+          "position": 14,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "finish off boarding",
+          "updated_at": "2026-07-10T12:22:58.043641Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 14
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673842700Z",
+        "card": {
+          "card_number": 12,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-25T13:49:39.302659Z",
+          "created_at": "2026-06-22T20:27:53.153980600Z",
+          "description": null,
+          "due_date": null,
+          "id": "8d020dfd-bb92-4050-884e-724e73d576d6",
+          "points": null,
+          "position": 9,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "email about health permit",
+          "updated_at": "2026-06-25T13:49:39.302661200Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 9
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673843100Z",
+        "card": {
+          "card_number": 8,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-19T14:40:23.168674300Z",
+          "created_at": "2026-06-18T17:28:03.271251300Z",
+          "description": null,
+          "due_date": null,
+          "id": "f0c89351-664d-4650-bb6f-88479f2929a2",
+          "points": null,
+          "position": 7,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "do laundry",
+          "updated_at": "2026-06-19T14:40:23.168679500Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 7
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673843500Z",
+        "card": {
+          "card_number": 1,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-14T19:53:17.326406300Z",
+          "created_at": "2026-06-14T17:20:34.597016900Z",
+          "description": null,
+          "due_date": null,
+          "id": "211d8a60-718b-46a1-8025-e80e79124051",
+          "points": null,
+          "position": 1,
+          "priority": "Medium",
+          "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+          "sprint_logs": [
+            {
+              "ended_at": null,
+              "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
+              "sprint_name": "june",
+              "sprint_number": 1,
+              "started_at": "2026-06-14T19:12:23.565469800Z",
+              "status": "Planning"
+            }
+          ],
+          "status": "Done",
+          "title": "find frame",
+          "updated_at": "2026-06-14T19:53:17.326409800Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 1
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673843900Z",
+        "card": {
+          "card_number": 13,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-25T13:49:42.934082500Z",
+          "created_at": "2026-06-23T20:33:52.489995800Z",
+          "description": null,
+          "due_date": null,
+          "id": "9cf51379-7117-4134-82dd-b43157d4ff11",
+          "points": null,
+          "position": 10,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "pay bank",
+          "updated_at": "2026-06-25T13:49:42.934084300Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 10
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673844300Z",
+        "card": {
+          "card_number": 5,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-06-16T01:00:38.293413800Z",
+          "created_at": "2026-06-15T20:25:50.029566078Z",
+          "description": null,
+          "due_date": null,
+          "id": "b725b356-eea4-4e0b-a34a-4710187b5854",
+          "points": null,
+          "position": 4,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "set-up frame",
+          "updated_at": "2026-06-16T01:00:38.293417400Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 4
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673844600Z",
+        "card": {
+          "card_number": 10,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-07-01T00:01:43.256040200Z",
+          "created_at": "2026-06-22T02:02:34.571277400Z",
+          "description": null,
+          "due_date": null,
+          "id": "f8f26b93-ba25-4042-b8b8-16467fa0c521",
+          "points": null,
+          "position": 11,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "organize room",
+          "updated_at": "2026-07-01T00:01:43.256043300Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 11
+      },
+      {
+        "archived_at": "2026-07-11T18:35:28.673845Z",
+        "card": {
+          "card_number": 19,
+          "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+          "completed_at": "2026-07-11T18:35:14.257463700Z",
+          "created_at": "2026-07-10T13:34:21.559449800Z",
+          "description": null,
+          "due_date": null,
+          "id": "fee078b1-6cfc-4e74-8689-9ae4fd5babf5",
+          "points": null,
+          "position": 15,
+          "priority": "Medium",
+          "sprint_id": null,
+          "sprint_logs": [],
+          "status": "Done",
+          "title": "do laundry",
+          "updated_at": "2026-07-11T18:35:14.257465600Z"
+        },
+        "original_column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
+        "original_position": 15
       }
     ],
     "boards": [
@@ -1134,21 +1522,21 @@
     ],
     "cards": [
       {
-        "card_number": 19,
-        "column_id": "7a311128-1339-40b2-8979-2988815dcb08",
+        "card_number": 15,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
         "completed_at": null,
-        "created_at": "2026-07-10T13:34:21.559449800Z",
+        "created_at": "2026-06-29T00:04:16.228176409Z",
         "description": null,
         "due_date": null,
-        "id": "fee078b1-6cfc-4e74-8689-9ae4fd5babf5",
+        "id": "85995a49-c645-49a1-b2e3-54eafca94a70",
         "points": null,
         "position": 0,
         "priority": "Medium",
         "sprint_id": null,
         "sprint_logs": [],
         "status": "Todo",
-        "title": "do laundry",
-        "updated_at": "2026-07-10T13:34:32.242380600Z"
+        "title": "update panda garden site",
+        "updated_at": "2026-07-10T13:34:25.572301600Z"
       },
       {
         "card_number": 8,
@@ -1168,23 +1556,6 @@
         "updated_at": "2026-07-06T10:30:39.538291800Z"
       },
       {
-        "card_number": 15,
-        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "completed_at": null,
-        "created_at": "2026-06-29T00:04:16.228176409Z",
-        "description": null,
-        "due_date": null,
-        "id": "85995a49-c645-49a1-b2e3-54eafca94a70",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "update panda garden site",
-        "updated_at": "2026-07-10T13:34:25.572301600Z"
-      },
-      {
         "card_number": 9,
         "column_id": "1cddabcd-5bc7-4b2a-bf08-813f2069efde",
         "completed_at": null,
@@ -1200,58 +1571,6 @@
         "status": "Todo",
         "title": "springboot",
         "updated_at": "2026-07-06T10:31:00.220160300Z"
-      },
-      {
-        "card_number": 2,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T19:53:02.198286Z",
-        "created_at": "2026-06-14T17:20:50.159237700Z",
-        "description": null,
-        "due_date": null,
-        "id": "d01235d2-c1a6-4716-8211-89702b8c232b",
-        "points": null,
-        "position": 1,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:12:20.819369500Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "clean top-shelf",
-        "updated_at": "2026-06-14T19:53:02.198290600Z"
-      },
-      {
-        "card_number": 1,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T19:53:17.326406300Z",
-        "created_at": "2026-06-14T17:20:34.597016900Z",
-        "description": null,
-        "due_date": null,
-        "id": "211d8a60-718b-46a1-8025-e80e79124051",
-        "points": null,
-        "position": 1,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:12:23.565469800Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "find frame",
-        "updated_at": "2026-06-14T19:53:17.326409800Z"
       },
       {
         "card_number": 18,
@@ -1286,266 +1605,9 @@
         "status": "Todo",
         "title": "fix task categories",
         "updated_at": "2026-07-10T13:34:29.205049200Z"
-      },
-      {
-        "card_number": 4,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T20:27:52.946082800Z",
-        "created_at": "2026-06-14T20:22:25.399993Z",
-        "description": null,
-        "due_date": null,
-        "id": "bd3d301c-6c11-45bf-b98b-8c2a24b46eb5",
-        "points": null,
-        "position": 2,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T20:22:28.278870500Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "takeout trash",
-        "updated_at": "2026-06-14T20:27:52.946086800Z"
-      },
-      {
-        "card_number": 3,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-14T22:18:23.965352Z",
-        "created_at": "2026-06-14T19:53:22.276855900Z",
-        "description": null,
-        "due_date": null,
-        "id": "5f704333-76a8-4d62-bf2f-2fd97b5d49d8",
-        "points": null,
-        "position": 3,
-        "priority": "Medium",
-        "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-        "sprint_logs": [
-          {
-            "ended_at": null,
-            "sprint_id": "fe9391f8-06e4-4145-9ad6-92aa117f2dfb",
-            "sprint_name": "june",
-            "sprint_number": 1,
-            "started_at": "2026-06-14T19:53:30.030969700Z",
-            "status": "Planning"
-          }
-        ],
-        "status": "Done",
-        "title": "cash check",
-        "updated_at": "2026-06-14T22:18:23.965361600Z"
-      },
-      {
-        "card_number": 5,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-16T01:00:38.293413800Z",
-        "created_at": "2026-06-15T20:25:50.029566078Z",
-        "description": null,
-        "due_date": null,
-        "id": "b725b356-eea4-4e0b-a34a-4710187b5854",
-        "points": null,
-        "position": 4,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "set-up frame",
-        "updated_at": "2026-06-16T01:00:38.293417400Z"
-      },
-      {
-        "card_number": 6,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-17T16:09:17.531525900Z",
-        "created_at": "2026-06-16T18:12:25.591818600Z",
-        "description": null,
-        "due_date": null,
-        "id": "36396719-d6e3-4ba8-84dd-eddee37a283e",
-        "points": null,
-        "position": 5,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "throw out trash",
-        "updated_at": "2026-06-17T16:09:17.531536900Z"
-      },
-      {
-        "card_number": 7,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-18T17:27:59.482670100Z",
-        "created_at": "2026-06-18T15:54:18.905453100Z",
-        "description": null,
-        "due_date": null,
-        "id": "318d88a7-694a-457e-8d7b-d58fcac62ea3",
-        "points": null,
-        "position": 6,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "figure out progressive",
-        "updated_at": "2026-06-18T17:27:59.482676400Z"
-      },
-      {
-        "card_number": 8,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-19T14:40:23.168674300Z",
-        "created_at": "2026-06-18T17:28:03.271251300Z",
-        "description": null,
-        "due_date": null,
-        "id": "f0c89351-664d-4650-bb6f-88479f2929a2",
-        "points": null,
-        "position": 7,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "do laundry",
-        "updated_at": "2026-06-19T14:40:23.168679500Z"
-      },
-      {
-        "card_number": 9,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-19T14:40:25.753138600Z",
-        "created_at": "2026-06-18T17:28:10.601701300Z",
-        "description": null,
-        "due_date": null,
-        "id": "fe34a36c-ac2e-4c24-90b3-e0469cd7e75e",
-        "points": null,
-        "position": 8,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "drop off car 9:30 am friday",
-        "updated_at": "2026-06-19T14:40:25.753143600Z"
-      },
-      {
-        "card_number": 12,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-25T13:49:39.302659Z",
-        "created_at": "2026-06-22T20:27:53.153980600Z",
-        "description": null,
-        "due_date": null,
-        "id": "8d020dfd-bb92-4050-884e-724e73d576d6",
-        "points": null,
-        "position": 9,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "email about health permit",
-        "updated_at": "2026-06-25T13:49:39.302661200Z"
-      },
-      {
-        "card_number": 13,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-06-25T13:49:42.934082500Z",
-        "created_at": "2026-06-23T20:33:52.489995800Z",
-        "description": null,
-        "due_date": null,
-        "id": "9cf51379-7117-4134-82dd-b43157d4ff11",
-        "points": null,
-        "position": 10,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "pay bank",
-        "updated_at": "2026-06-25T13:49:42.934084300Z"
-      },
-      {
-        "card_number": 10,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-07-01T00:01:43.256040200Z",
-        "created_at": "2026-06-22T02:02:34.571277400Z",
-        "description": null,
-        "due_date": null,
-        "id": "f8f26b93-ba25-4042-b8b8-16467fa0c521",
-        "points": null,
-        "position": 11,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "organize room",
-        "updated_at": "2026-07-01T00:01:43.256043300Z"
-      },
-      {
-        "card_number": 11,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-07-01T00:01:44.929604900Z",
-        "created_at": "2026-06-22T02:02:39.604472100Z",
-        "description": null,
-        "due_date": null,
-        "id": "d59575a0-dfb2-4f6a-bab2-ad36dc0b7f45",
-        "points": null,
-        "position": 12,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "move laundry into closet",
-        "updated_at": "2026-07-01T00:01:44.929607Z"
-      },
-      {
-        "card_number": 16,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-07-10T12:22:56.099882600Z",
-        "created_at": "2026-07-02T01:28:05.205975600Z",
-        "description": "waiting to find out when remote days are so i can go drop off and wait\r\n\r\n",
-        "due_date": null,
-        "id": "966dd552-057d-483b-a0b4-d02ae0d8c260",
-        "points": null,
-        "position": 13,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "service the car",
-        "updated_at": "2026-07-10T12:22:56.099885600Z"
-      },
-      {
-        "card_number": 14,
-        "column_id": "5c92ae66-60c0-4605-850d-f72c7f6cc499",
-        "completed_at": "2026-07-10T12:22:58.043638300Z",
-        "created_at": "2026-06-25T14:42:14.264907900Z",
-        "description": null,
-        "due_date": null,
-        "id": "4da7c51d-fc48-4f93-adb7-6cf742fabfd5",
-        "points": null,
-        "position": 14,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Done",
-        "title": "finish off boarding",
-        "updated_at": "2026-07-10T12:22:58.043641Z"
       }
     ],
     "columns": [
-      {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:21:09.492581200Z",
-        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "name": "Hold",
-        "position": 0,
-        "updated_at": "2026-06-14T17:21:21.540138300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092287Z",
-        "id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
-        "name": "Ideas",
-        "position": 0,
-        "updated_at": "2026-06-14T22:19:50.510148600Z",
-        "wip_limit": null
-      },
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
         "created_at": "2026-06-17T03:12:34.352275400Z",
@@ -1574,21 +1636,21 @@
         "wip_limit": null
       },
       {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532321800Z",
-        "id": "97f6da96-82c7-43dd-9282-2b926fa0e36c",
-        "name": "Doing",
-        "position": 1,
-        "updated_at": "2026-06-14T17:18:48.532321800Z",
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:21:09.492581200Z",
+        "id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "name": "Hold",
+        "position": 0,
+        "updated_at": "2026-06-14T17:21:21.540138300Z",
         "wip_limit": null
       },
       {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:18:39.721527300Z",
-        "id": "7a311128-1339-40b2-8979-2988815dcb08",
-        "name": "Todo",
-        "position": 1,
-        "updated_at": "2026-06-14T17:21:21.540136400Z",
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092287Z",
+        "id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "name": "Ideas",
+        "position": 0,
+        "updated_at": "2026-06-14T22:19:50.510148600Z",
         "wip_limit": null
       },
       {
@@ -1601,12 +1663,21 @@
         "wip_limit": null
       },
       {
-        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
-        "created_at": "2026-06-14T17:18:46.920578300Z",
-        "id": "8c64a859-9800-433b-b303-f9946e68ecfa",
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:18:39.721527300Z",
+        "id": "7a311128-1339-40b2-8979-2988815dcb08",
+        "name": "Todo",
+        "position": 1,
+        "updated_at": "2026-06-14T17:21:21.540136400Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532321800Z",
+        "id": "97f6da96-82c7-43dd-9282-2b926fa0e36c",
         "name": "Doing",
         "position": 1,
-        "updated_at": "2026-06-14T17:18:46.920578300Z",
+        "updated_at": "2026-06-14T17:18:48.532321800Z",
         "wip_limit": null
       },
       {
@@ -1619,12 +1690,48 @@
         "wip_limit": null
       },
       {
+        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
+        "created_at": "2026-06-14T17:18:46.920578300Z",
+        "id": "8c64a859-9800-433b-b303-f9946e68ecfa",
+        "name": "Doing",
+        "position": 1,
+        "updated_at": "2026-06-14T17:18:46.920578300Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532322300Z",
+        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "name": "Complete",
+        "position": 2,
+        "updated_at": "2026-06-14T17:18:48.532322300Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092294100Z",
+        "id": "6e54ed8f-c704-4088-9b72-1b0f50b58022",
+        "name": "Published",
+        "position": 2,
+        "updated_at": "2026-06-14T22:19:58.477166500Z",
+        "wip_limit": null
+      },
+      {
         "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
         "created_at": "2026-06-14T17:18:39.721528700Z",
         "id": "58316e82-bd5e-4c53-8399-a3c9866ebc28",
         "name": "Doing",
         "position": 2,
         "updated_at": "2026-06-14T17:21:21.323522800Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
+        "created_at": "2026-06-14T17:18:42.017917800Z",
+        "id": "572785f7-2193-4d59-b51c-fa7d424f4486",
+        "name": "Doing",
+        "position": 2,
+        "updated_at": "2026-06-17T03:12:45.019869300Z",
         "wip_limit": null
       },
       {
@@ -1638,29 +1745,11 @@
       },
       {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-14T17:18:42.017917800Z",
-        "id": "572785f7-2193-4d59-b51c-fa7d424f4486",
-        "name": "Doing",
-        "position": 2,
-        "updated_at": "2026-06-17T03:12:45.019869300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092294100Z",
-        "id": "6e54ed8f-c704-4088-9b72-1b0f50b58022",
-        "name": "Published",
-        "position": 2,
-        "updated_at": "2026-06-14T22:19:58.477166500Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532322300Z",
-        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "created_at": "2026-06-14T17:18:42.017918600Z",
+        "id": "e525479f-6114-4c8e-8707-10a514f9989a",
         "name": "Complete",
-        "position": 2,
-        "updated_at": "2026-06-14T17:18:48.532322300Z",
+        "position": 3,
+        "updated_at": "2026-06-17T03:12:44.740931500Z",
         "wip_limit": null
       },
       {
@@ -1670,15 +1759,6 @@
         "name": "Complete",
         "position": 3,
         "updated_at": "2026-06-14T17:21:20.888214700Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-14T17:18:42.017918600Z",
-        "id": "e525479f-6114-4c8e-8707-10a514f9989a",
-        "name": "Complete",
-        "position": 3,
-        "updated_at": "2026-06-17T03:12:44.740931500Z",
         "wip_limit": null
       }
     ],
