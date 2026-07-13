@@ -1,8 +1,8 @@
 {
   "version": 7,
   "metadata": {
-    "instance_id": "34e96673-850a-4699-a258-a395e764bedc",
-    "saved_at": "2026-07-11T18:35:28.674322600Z",
+    "instance_id": "e6ac64ca-f129-46c7-a698-fb517d77c514",
+    "saved_at": "2026-07-12T21:38:29.198763300Z",
     "writer_version": "0.7.2",
     "writer_commit": "unknown"
   },
@@ -1408,7 +1408,7 @@
     "boards": [
       {
         "active_sprint_id": null,
-        "card_counter": 20,
+        "card_counter": 21,
         "card_prefix": null,
         "completion_column_id": null,
         "created_at": "2026-06-14T17:18:39.721511900Z",
@@ -1522,23 +1522,6 @@
     ],
     "cards": [
       {
-        "card_number": 15,
-        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
-        "completed_at": null,
-        "created_at": "2026-06-29T00:04:16.228176409Z",
-        "description": null,
-        "due_date": null,
-        "id": "85995a49-c645-49a1-b2e3-54eafca94a70",
-        "points": null,
-        "position": 0,
-        "priority": "Medium",
-        "sprint_id": null,
-        "sprint_logs": [],
-        "status": "Todo",
-        "title": "update panda garden site",
-        "updated_at": "2026-07-10T13:34:25.572301600Z"
-      },
-      {
         "card_number": 8,
         "column_id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
         "completed_at": "2026-07-06T10:30:39.538289200Z",
@@ -1554,6 +1537,23 @@
         "status": "Done",
         "title": "typescript",
         "updated_at": "2026-07-06T10:30:39.538291800Z"
+      },
+      {
+        "card_number": 15,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "completed_at": null,
+        "created_at": "2026-06-29T00:04:16.228176409Z",
+        "description": null,
+        "due_date": null,
+        "id": "85995a49-c645-49a1-b2e3-54eafca94a70",
+        "points": null,
+        "position": 0,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "update panda garden site",
+        "updated_at": "2026-07-10T13:34:25.572301600Z"
       },
       {
         "card_number": 9,
@@ -1605,16 +1605,33 @@
         "status": "Todo",
         "title": "fix task categories",
         "updated_at": "2026-07-10T13:34:29.205049200Z"
+      },
+      {
+        "card_number": 20,
+        "column_id": "f2f3b29c-2f70-4e4f-94a1-4d16d631f707",
+        "completed_at": null,
+        "created_at": "2026-07-12T21:38:29.185151Z",
+        "description": null,
+        "due_date": null,
+        "id": "3cb12a54-cfa9-4946-b303-1c0b987c050e",
+        "points": null,
+        "position": 3,
+        "priority": "Medium",
+        "sprint_id": null,
+        "sprint_logs": [],
+        "status": "Todo",
+        "title": "figure out which is phone is broke",
+        "updated_at": "2026-07-12T21:38:29.185151Z"
       }
     ],
     "columns": [
       {
-        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
-        "created_at": "2026-06-17T03:12:34.352275400Z",
-        "id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
-        "name": "Waiting On",
+        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
+        "created_at": "2026-06-14T17:18:46.920576800Z",
+        "id": "6e47f29d-f9d4-48a0-8115-2387a27ee63c",
+        "name": "TODO",
         "position": 0,
-        "updated_at": "2026-06-17T03:12:45.327238900Z",
+        "updated_at": "2026-06-14T17:18:46.920576800Z",
         "wip_limit": null
       },
       {
@@ -1627,12 +1644,12 @@
         "wip_limit": null
       },
       {
-        "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
-        "created_at": "2026-06-14T17:18:46.920576800Z",
-        "id": "6e47f29d-f9d4-48a0-8115-2387a27ee63c",
-        "name": "TODO",
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092287Z",
+        "id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
+        "name": "Ideas",
         "position": 0,
-        "updated_at": "2026-06-14T17:18:46.920576800Z",
+        "updated_at": "2026-06-14T22:19:50.510148600Z",
         "wip_limit": null
       },
       {
@@ -1645,21 +1662,12 @@
         "wip_limit": null
       },
       {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092287Z",
-        "id": "f0d2edf7-685f-4922-a038-1a3f3c8fb90a",
-        "name": "Ideas",
+        "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
+        "created_at": "2026-06-17T03:12:34.352275400Z",
+        "id": "fc09ee3d-6984-4f37-8c97-b4ecb37b5606",
+        "name": "Waiting On",
         "position": 0,
-        "updated_at": "2026-06-14T22:19:50.510148600Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
-        "created_at": "2026-06-14T22:19:39.092289Z",
-        "id": "50c342ac-0ee8-4e73-8b2b-633bddfc71e2",
-        "name": "Writing",
-        "position": 1,
-        "updated_at": "2026-06-14T22:19:54.056155100Z",
+        "updated_at": "2026-06-17T03:12:45.327238900Z",
         "wip_limit": null
       },
       {
@@ -1690,21 +1698,21 @@
         "wip_limit": null
       },
       {
+        "board_id": "e2ca2d37-9d1b-4248-a881-9a644c8bff68",
+        "created_at": "2026-06-14T22:19:39.092289Z",
+        "id": "50c342ac-0ee8-4e73-8b2b-633bddfc71e2",
+        "name": "Writing",
+        "position": 1,
+        "updated_at": "2026-06-14T22:19:54.056155100Z",
+        "wip_limit": null
+      },
+      {
         "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
         "created_at": "2026-06-14T17:18:46.920578300Z",
         "id": "8c64a859-9800-433b-b303-f9946e68ecfa",
         "name": "Doing",
         "position": 1,
         "updated_at": "2026-06-14T17:18:46.920578300Z",
-        "wip_limit": null
-      },
-      {
-        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
-        "created_at": "2026-06-14T17:18:48.532322300Z",
-        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
-        "name": "Complete",
-        "position": 2,
-        "updated_at": "2026-06-14T17:18:48.532322300Z",
         "wip_limit": null
       },
       {
@@ -1717,15 +1725,6 @@
         "wip_limit": null
       },
       {
-        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
-        "created_at": "2026-06-14T17:18:39.721528700Z",
-        "id": "58316e82-bd5e-4c53-8399-a3c9866ebc28",
-        "name": "Doing",
-        "position": 2,
-        "updated_at": "2026-06-14T17:21:21.323522800Z",
-        "wip_limit": null
-      },
-      {
         "board_id": "2b135aaf-6562-43ab-adc3-633dfa7082e0",
         "created_at": "2026-06-14T17:18:42.017917800Z",
         "id": "572785f7-2193-4d59-b51c-fa7d424f4486",
@@ -1735,12 +1734,30 @@
         "wip_limit": null
       },
       {
+        "board_id": "c30ca5ed-1ae8-4120-b5e9-2a4db5058482",
+        "created_at": "2026-06-14T17:18:39.721528700Z",
+        "id": "58316e82-bd5e-4c53-8399-a3c9866ebc28",
+        "name": "Doing",
+        "position": 2,
+        "updated_at": "2026-06-14T17:21:21.323522800Z",
+        "wip_limit": null
+      },
+      {
         "board_id": "6f65abc8-c7c3-447c-95aa-de66bca7c1c9",
         "created_at": "2026-06-14T17:18:46.920580700Z",
         "id": "03765546-c4a1-402e-a0a7-e6ad92a62cfe",
         "name": "Complete",
         "position": 2,
         "updated_at": "2026-06-14T17:18:46.920580700Z",
+        "wip_limit": null
+      },
+      {
+        "board_id": "ab5cfeb4-e1d3-4e19-87b3-61cafedb6f57",
+        "created_at": "2026-06-14T17:18:48.532322300Z",
+        "id": "6b14e096-1767-44b9-ad78-db0ff9e55725",
+        "name": "Complete",
+        "position": 2,
+        "updated_at": "2026-06-14T17:18:48.532322300Z",
         "wip_limit": null
       },
       {
